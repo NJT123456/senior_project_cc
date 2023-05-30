@@ -1,0 +1,7 @@
+Lags,Optimizer,Batch_size,Learning rate,Frist layer,Drop out,Second layer,Output layer,Epochs,MAPE error
+5,Adam,32,0.005,50,,,1,10,0.051084
+10,Adam,32,0.005,50,,,1,10,0.053332
+15,Adam,32,0.005,50,,,1,10,0.051141
+20,Adam,32,0.005,50,,,1,10,0.051085
+25,Adam,32,,100,,,1,20,0.054141
+30,Adam,32,0.05,50,,,1,20,0.051346

@@ -1,0 +1,15 @@
+Model,LSTM lag10
+Lstm mse error unit 50 adam,0.001866500333416413
+Lstm mse error unit 50 sgd,0.005052922796121346
+Lstm mse error unit 50 rmsprop,0.0018824470891809356
+Lstm mse error adam 50 batch_size64,0.0024900474490507927
+Lstm mse error adam 50 learning rate 0.1,0.010057880094243587
+Lstm mse error adam 50 learning rate 0.05,0.0018300354978602964
+Lstm mse error adam 50 learning rate 0.01,0.0026539726796307507
+Lstm mse error adam 50 learning rate 0.005,0.001841080809752231
+Lstm mse error adam 50 learning rate 0.001,0.0026539726796307507
+Lstm mse error adam frist layer unit 100 learning rate 0.05,0.09864978850110133
+Lstm mse error adam 50 drop out 0.1 learning rate 0.05,0.002460275465632605
+Lstm mse error adam 50 second layer unit 50 learning rate 0.05,0.018170083609686867
+Lstm mse error adam 50 second layer unit 100 learning rate 0.05,0.0032575825699604297
+Lstm mse error 50 epoch 30 learning rate 0.05,0.0018827187225464925
